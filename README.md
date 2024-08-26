@@ -1,0 +1,1 @@
+# shopgadget-data
